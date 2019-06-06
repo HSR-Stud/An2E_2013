@@ -1,5 +1,5 @@
 # An2b
-Formelsammlung An2E
+Zusammenfassung/ Formelsammlung An2E
 
 ## TODO
 siehe: Issue
