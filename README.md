@@ -2,7 +2,7 @@
 Zusammenfassung/ Formelsammlung An2E
 
 ## TODO
-siehe: Issue
+siehe: Issues
 
 ### TODO erledigt
 Wer noch nicht Mitglied des Teams HSR-Stud ist und die Formelsammlung wieder hochladen möchte.
