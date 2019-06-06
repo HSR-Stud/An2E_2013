@@ -1,0 +1,43 @@
+%Dokumentinformationen	======================================================================
+\newcommand{\titleinfo}{Formelsammlung An2E}
+\newcommand{\authorinfo}{S.Steiner, sowie weitere HSR Studenten}
+\newcommand{\versioninfo}{FS \ 2013}
+\newcommand{\licence}{CC BY-NC-SA}
+
+
+%weitere Autoren: ==========================================================================
+% S.Steiner auf Vorlage von F. Braun, R.Koller, L.Leuenberger und weiteren
+
+
+
+%eigene Befehle: ==========================================================================
+%Tabellen Höhe
+\renewcommand{\arraystretch}{2}
+
+
+% Dokumenteinstellungen	 ======================================================================
+\include{header/header}			% standard header mit den Packages
+
+
+
+% Sections ======================================================================
+\begin{document}
+	%Schriftart Helvetic
+	\normalfont
+	
+	%Titel
+	\section*{\titleinfo}
+	
+	\input{sections/integralrechnung.tex}
+	
+	\input{sections/funktionsgraphen.tex}
+	
+	\input{sections/anwdgDiffIntRechnung.tex}
+	
+	\input{sections/reihen.tex}
+	
+	\input{sections/DGL.tex}
+	
+	\clearpage
+	\input{sections/anhang.tex}
+\end{document}
